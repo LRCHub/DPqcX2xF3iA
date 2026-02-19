@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "大地のシンフォニー",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2026-02-19T15:24:43.829540Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大地のシンフォニー",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_大地のシンフォニー_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "大地のシンフォニー",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_02_大地のシンフォニー_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "大地のシンフォニー",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_03_大地のシンフォニー_エレファントカシマシ.txt"
+    }
+  ]
+}
